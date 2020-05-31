@@ -12,4 +12,7 @@
   - Real-time A* using agent
   - MinMax with alpha-beta pruning agent
   
+  ![](1.png)
+  ![](2.png)
+
   *Note: USA map is not working in the moment*
