@@ -15,4 +15,4 @@
   ![](1.png)
   ![](2.png)
 
-  *Note: USA map is not working in the moment*
+  *Note: Egypt map is not working in the moment*
